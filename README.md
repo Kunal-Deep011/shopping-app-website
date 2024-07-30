@@ -1,6 +1,8 @@
 # Shopping-Cart-Website
 
 `Description` : For building this project i have used advanced JavaScript,HTML,CSS and it includes topics likes promises, async await , using storage APIs and basic API calls while also dealing with complex DOM Manipulations.
+
+
 `Key Features` : This website able to do valid authentication of login-sign up,search product according to the color, size, price, category, edit your profile password and set new password,adding product to the cart and then checkout-payment function through razorpay.
 
 # Screenshots :
